@@ -6,3 +6,11 @@ console.log(name);
 
 let id = 'kushagra_1_1_1_7';
 console.log(id);
+
+
+
+//this is my third pr 
+
+
+let school = 'chinmaya vidyalaya';
+console.log(school);
